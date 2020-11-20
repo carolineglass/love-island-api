@@ -71,18 +71,4 @@ images = [
     img: "https://i2-prod.ok.co.uk/incoming/article14684923.ece/ALTERNATES/s615b/704643_love_island_rachel_fenton_leaves_fc789882b53043dd49a9df05310acd47"},
     {name: "Javi Shephard",
     img: "https://i2-prod.ok.co.uk/incoming/article14684320.ece/ALTERNATES/s615b/702893_javi_shephard_d16bc5974f550ec21e34a8a1186a5380"},
-    
-                                
-    
-    
-   
-   
-   
-  
-  
-   
-   
-  
-   
-
 ]
